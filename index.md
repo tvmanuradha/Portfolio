@@ -12,8 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Test System Automation Engineer in Aerospace Domain
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Test Software Automation Engineer in Aerospace Domain 
 ## Test System Automation Engineer in Telecom Domain
 
 > This is a blockquote following a header.
